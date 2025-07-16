@@ -48,8 +48,7 @@
 
 ### 🌐 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/deodattap/)
-- 💬 Let's talk tech, projects, or memes 😄
+- 💼 [LinkedIn](https://www.linkedin.com/in/deodatta-pagar/)
 
 ---
 
