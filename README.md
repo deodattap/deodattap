@@ -15,6 +15,10 @@
 - 🧠 Currently exploring **backend development, data structures & software engineering**
 - 🤝 I’m open to collaboration on student projects, open source, and hackathons
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/>
+</p>
+
 ---
 
 ### 🧰 Languages & Tools
@@ -27,12 +31,12 @@
 
 ### 📂 Notable Projects
 
-- 💬 **Chat App (Encrypted)** - Real-time messaging with rooms, encryption, emoji support & saved history  
+- 💬 **Chat App (Encrypted)** – Real-time messaging with rooms, encryption, emoji support & saved history  
   [`chat-app-backend`](https://github.com/deodattap/chat-backend)
 
-- 🥪 **Canteen Order Queue System** - A menu-driven C++ project simulating a food order queue
+- 🥪 **Canteen Order Queue System** – A menu-driven C++ project simulating a food order queue
 
-- 📆 **Appointment Booking System** - Built using linked lists with time slot management and sorting
+- 📆 **Appointment Booking System** – Built using linked lists with time slot management and sorting
 
 ---
 
@@ -49,7 +53,3 @@
 ### 🌐 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/deodatta-pagar/)
-
----
-
-> ⚡ “Code like a poet, debug like a detective, ship like a pirate.”  
