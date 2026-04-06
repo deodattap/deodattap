@@ -29,14 +29,12 @@
 
 ---
 
-### 📂 Notable Projects
-
-- 💬 **Chat App (Encrypted)** – Real-time messaging with rooms, encryption, emoji support & saved history  
-  [`chat-app-backend`](https://github.com/deodattap/chat-backend)
-
-- 🥪 **Canteen Order Queue System** – A menu-driven C++ project simulating a food order queue
-
-- 📆 **Appointment Booking System** – Built using linked lists with time slot management and sorting
+### Notable Projects
+💬 Chat App (Encrypted) – Real-time messaging with rooms, encryption, emoji support & saved history
+chat-app-backend
+🌆 Urban Aware – Smart city platform for reporting and tracking urban issues with real-time updates
+🌐 BNR Infrastructure Website – Developed a business website with admin panel, project showcase & inquiry system
+🥪 Canteen Order Queue System – A menu-driven C++ project simulating a food order queue
 
 ---
 
