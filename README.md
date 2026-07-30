@@ -1,53 +1,99 @@
-<h1 align="center">Hi 👋, I'm Deodatta Pagar</h1>
-<h3 align="center">A passionate Computer Engineering student & Developer from India 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Tech+Explorer+%F0%9F%94%8E;Learning+Java%2C+Web%2C+PostgreSQL+%E2%9A%99%EF%B8%8F;Building+cool+projects+%F0%9F%9A%80;Dreaming+of+a+career+in+tech+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:8FBC8F&height=220&section=header&text=Deodatta%20Pagar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
----
+<br>
 
-### 🚀 About Me
+<img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-brightgreen?style=for-the-badge" height="28"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/deodatta-pagar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+&nbsp;
+<a href="mailto:p.deodatta005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
 
-- 🎓 I'm currently pursuing **Computer Engineering**
-- 🛠️ I’m learning **Java, PostgreSQL, Web Dev, and Git**
-- 💡 Passionate about building real-world apps & solving problems
-- 🧠 Currently exploring **backend development, data structures & software engineering**
-- 🤝 I’m open to collaboration on student projects, open source, and hackathons
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/>
-</p>
+<br>
 
----
+## About Me
 
-### 🧰 Languages & Tools
+I'm a Computer Engineering student at **K.K. Wagh Institute of Engineering Education & Research**, Nashik, graduating in **2027**. I work across full-stack web development, machine learning, and academic research — and I care about writing code and building products that are both functional and well-designed.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,github,postgres,figma,vscode,eclipse" />
-</p>
+Currently, I'm the **Dynamic Feature Selection Lead** on a research seminar project studying streaming stock market data, working on Mutual Information, PCA, RFE, sliding-window selection methods, and concept drift detection using ADWIN.
 
----
+I'm actively looking for **internship and entry-level Software Engineering opportunities**, and always open to collaborating on interesting projects, open-source work, or hackathons.
 
-### Notable Projects
-💬 Chat App (Encrypted) – Real-time messaging with rooms, encryption, emoji support & saved history
-chat-app-backend
-🌆 Urban Aware – Smart city platform for reporting and tracking urban issues with real-time updates
-🌐 BNR Infrastructure Website – Developed a business website with admin panel, project showcase & inquiry system
-🥪 Canteen Order Queue System – A menu-driven C++ project simulating a food order queue
+<br>
 
----
+## Tech Stack
 
-### 📊 GitHub Stats
+<table>
+<tr>
+<td valign="top" width="25%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deodattap&show_icons=true&theme=radical" alt="deodattap stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deodattap&theme=radical" alt="streak" />
-</p>
+**Languages**
+<br>
+Java · Python · JavaScript
+<br>
+HTML5 · CSS3
 
----
+</td>
+<td valign="top" width="25%">
 
-### 🌐 Let's Connect!
+**Web**
+<br>
+React · Node.js
+<br>
+REST APIs
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/deodatta-pagar/)
+</td>
+<td valign="top" width="25%">
+
+**Data & ML**
+<br>
+PostgreSQL · MongoDB
+<br>
+scikit-learn · Flask
+
+</td>
+<td valign="top" width="25%">
+
+**Tools**
+<br>
+Git · GitHub
+<br>
+Vercel · Figma
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deodattap&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8FBC8F&icon_color=8FBC8F&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deodattap&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8FBC8F&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<br>
+
+## Let's Connect
+
+<div align="center">
+
+I'm open to Software Engineering internships and full-time roles — feel free to reach out.
+
+<a href="https://www.linkedin.com/in/deodatta-pagar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+&nbsp;
+<a href="mailto:p.deodatta005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+&nbsp;
+<a href="https://github.com/deodattap"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FBC8F,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
