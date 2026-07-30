@@ -26,46 +26,11 @@ I'm actively looking for **internship and entry-level Software Engineering oppor
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="25%">
+<div align="center">
 
-**Languages**
-<br>
-Java · Python · JavaScript
-<br>
-HTML5 · CSS3
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nodejs,postgres,mongodb,git,github,figma,vercel,vscode&theme=dark" />
 
-</td>
-<td valign="top" width="25%">
-
-**Web**
-<br>
-React · Node.js
-<br>
-REST APIs
-
-</td>
-<td valign="top" width="25%">
-
-**Data & ML**
-<br>
-PostgreSQL · MongoDB
-<br>
-scikit-learn · Flask
-
-</td>
-<td valign="top" width="25%">
-
-**Tools**
-<br>
-Git · GitHub
-<br>
-Vercel · Figma
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -73,8 +38,8 @@ Vercel · Figma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deodattap&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8FBC8F&icon_color=8FBC8F&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deodattap&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8FBC8F&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deodattap&show_icons=true&theme=dark&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deodattap&layout=compact&theme=dark&hide_border=true" width="35%"/>
 
 </div>
 
