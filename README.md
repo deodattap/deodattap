@@ -4,11 +4,15 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-brightgreen?style=for-the-badge" height="28"/>
+<a href="https://github.com/deodattap?tab=followers"><img src="https://img.shields.io/github/followers/deodattap?label=FOLLOW&style=for-the-badge&color=555555&labelColor=333333" height="28"/></a>
 &nbsp;
+<img src="https://komarev.com/ghpvc/?username=deodattap&label=PROFILE+VIEWS&style=for-the-badge&color=555555&labelColor=333333" height="28"/>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/deodatta-pagar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
 &nbsp;
-<a href="mailto:p.deodatta005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+<a href="mailto:p.deodatta005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
 
 </div>
 
@@ -16,11 +20,13 @@
 
 ## About Me
 
-I'm a Computer Engineering student at **K.K. Wagh Institute of Engineering Education & Research**, Nashik, graduating in **2027**. I work across full-stack web development, machine learning, and academic research — and I care about writing code and building products that are both functional and well-designed.
+I am a **Computer Engineering student** passionate about building full-stack applications, exploring machine learning, and solving challenging technical problems.
 
-Currently, I'm the **Dynamic Feature Selection Lead** on a research seminar project studying streaming stock market data, working on Mutual Information, PCA, RFE, sliding-window selection methods, and concept drift detection using ADWIN.
-
-I'm actively looking for **internship and entry-level Software Engineering opportunities**, and always open to collaborating on interesting projects, open-source work, or hackathons.
+- 🚀 Final-year Computer Engineering student at **K.K. Wagh Institute of Engineering Education & Research**, Nashik
+- 💻 Full-Stack Developer working with modern JavaScript and Python tooling
+- 🧠 Currently leading feature-selection research on streaming stock market data (MI, PCA, RFE, ADWIN concept drift)
+- 📚 Strong foundation in **DSA, Git, Databases, and Web Development**
+- 🟢 Open to Software Engineering internships and full-time roles
 
 <br>
 
@@ -34,12 +40,28 @@ I'm actively looking for **internship and entry-level Software Engineering oppor
 
 <br>
 
-## GitHub Overview
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deodattap&theme=dark&hide_border=true&background=0D1117&stroke=8FBC8F&ring=8FBC8F&fire=8FBC8F&currStreakLabel=8FBC8F" width="65%"/>
+
+</div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=deodattap&show_icons=true&theme=dark&hide_border=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deodattap&layout=compact&theme=dark&hide_border=true" width="35%"/>
+
+</div>
+
+<br>
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deodattap&theme=react-dark&hide_border=true&bg_color=0D1117" width="90%"/>
 
 </div>
 
@@ -53,7 +75,7 @@ I'm open to Software Engineering internships and full-time roles — feel free t
 
 <a href="https://www.linkedin.com/in/deodatta-pagar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
 &nbsp;
-<a href="mailto:p.deodatta005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+<a href="mailto:p.deodatta005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
 &nbsp;
 <a href="https://github.com/deodattap"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
 
